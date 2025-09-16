@@ -1,0 +1,1 @@
+print("it is created to multiply")
